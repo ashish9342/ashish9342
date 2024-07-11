@@ -1,5 +1,3 @@
-<h1 align="center" style="display:none;">ASHISH SING RAWAT | FRONT END DEVELOPER </h1>
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Hi there 👋, I'm Ashish Rawat.
