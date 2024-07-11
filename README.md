@@ -5,7 +5,7 @@
 ### A Software Engineer passionate about building scalable systems.
 
 - 👨‍💻 Currently working with [STANDARD CHARTERED BANK](https://www.sc.com/en/) as a Senior Javascript Developer .
-- 📚 Currently learning Kubernates and Doeker.
+- 📚 Currently learning Kubernates and Docker.
 - 📫 Reach me at ashish9342@gmail.com
 
 ---
